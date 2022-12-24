@@ -1,6 +1,6 @@
 # cancer
 
-FB clone
+FB cloner
 
 telegram :raftarkrd
 
